@@ -10,6 +10,6 @@
     "HowToAcknowledge": "Please cite Ballard, I.C, Wagner, A.D., McClure, S.M. Hippocampal Pattern Separation Supports Reinforcement Learning.",
     "Funding": "NSF GRFP (ICB), NSF IGERT (ICB) and Stanford Innovation Grants (ICB)",
     "ReferencesAndLinks": [],
-    "DatasetDOI": "",
+    "DatasetDOI": "10.18112/openneuro.ds001590.v1.0.1",
     "BIDSVersion": "1.1.1"
 }
